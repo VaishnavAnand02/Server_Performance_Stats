@@ -10,6 +10,7 @@ A bash script to analyse basic server performance stats.
 git clone https://github.com/VaishnavAnand02/Server_Performance_Stats.git
 cd server-performance-stats
 
+```
 ---
 
 ### 2.Make the Script Executable
