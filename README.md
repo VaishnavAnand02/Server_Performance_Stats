@@ -22,4 +22,4 @@ chmod +x server-stats.sh
 ```bash
 ./server-stats.sh
 ```
-this is a part of roadmap.sh - https://roadmap.sh/projects/server-stats
+this is a part of [roadmap.sh](https://roadmap.sh/projects/server-stats)
