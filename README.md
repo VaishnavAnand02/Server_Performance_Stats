@@ -14,10 +14,12 @@ cd server-performance-stats
 ---
 
 ### 2.Make the Script Executable
+```bash
 chmod +x server-stats.sh
-
+```
 ---
 
 ### 3. Execute the script
+```bash
 ./server-stats.sh
-
+```
